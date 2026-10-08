@@ -17,3 +17,5 @@ Todo sea para aprobar el ciclo >.<
 
 Control de cambios
 Hoy no se duerme...
+
+Gestión de ramas: Rama feature-Blas utilizada
